@@ -66,7 +66,7 @@
     CLEANUP_INTERVAL: 60 * 60 * 1000, // 1 hour in milliseconds
     SCRIPT_ENABLED: true, // Master enable/disable for entire script
     CONSOLE_LOGS_ENABLED: true, // Control console.log displays
-    TWITTER_QUICK_SEARCH_ENABLED: false, // Enable Twitter Quick Search for token symbols
+    TWITTER_QUICK_SEARCH_ENABLED: true, // Enable Twitter Quick Search for token symbols
   };
 
   const SELECTORS = {
